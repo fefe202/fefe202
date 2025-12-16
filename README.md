@@ -55,11 +55,13 @@ My toolkit for breaking things:
 
 <div align="center">
   
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+  <img src="https://github-readme-anime-quotes.vercel.app/api/quote?theme=dark" alt="Anime Quote" />
   
   <br><br>
 
-  <img src="[INSERISCI_QUI_IL_TUO_LINK_GENERATO](https://spotify-github-profile.kittinanx.com/api/view?uid=2162yfcvsnzh3amggltkqpcla&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)" alt="Spotify Now Playing" width="350" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=2162yfcvsnzh3amggltkqpcla&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify Now Playing" />
+  </a>
 
 </div>
 
