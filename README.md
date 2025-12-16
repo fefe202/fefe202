@@ -54,8 +54,8 @@ My toolkit for breaking things:
 ---
 
 <div align="center">
-  
-  <img src="https://github-readme-anime-quotes.vercel.app/api/quote?theme=dark" alt="Anime Quote" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=2000&color=9ECE6A&center=true&vCenter=true&width=500&lines=Whatever+happens,+happens.+(Cowboy+Bebop);A+lesson+without+pain+is+meaningless.+(FMA);Wake+up+to+reality.+(Madara);I'll+take+a+potato+chip...+AND+EAT+IT!+(Death+Note);El+Psy+Kongroo.+(Steins;Gate)" alt="Anime Quotes" />
   
   <br><br>
 
