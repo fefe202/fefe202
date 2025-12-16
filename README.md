@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/federico-d-a65a14306/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:tuamail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 ---
@@ -51,8 +54,13 @@ My toolkit for breaking things:
 ---
 
 <div align="center">
-  <p>👾 <b>Profile Visitors (High Score)</b> 👾</p>
-  <img src="https://komarev.com/ghpvc/?username=fefe202&style=flat-square&label=SCORE&color=70d6ff&label_color=000000" alt="Visitor Count" />
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+  
+  <br><br>
+
+  <img src="[INSERISCI_QUI_IL_TUO_LINK_GENERATO](https://spotify-github-profile.kittinanx.com/api/view?uid=2162yfcvsnzh3amggltkqpcla&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)" alt="Spotify Now Playing" width="350" />
+
 </div>
 
 <br>
