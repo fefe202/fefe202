@@ -51,8 +51,8 @@ My toolkit for breaking things:
 ---
 
 <div align="center">
-  <h3>🏆 Achievements Unlocked</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=fefe202&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" alt="Trophies" />
+  <p>👾 <b>Profile Visitors (High Score)</b> 👾</p>
+  <img src="https://komarev.com/ghpvc/?username=fefe202&style=flat-square&label=SCORE&color=70d6ff&label_color=000000" alt="Visitor Count" />
 </div>
 
 <br>
